@@ -8,4 +8,4 @@ def greeting(name)
   
 end
 
-greeting()
+greeting("Sally")
